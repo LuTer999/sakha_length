@@ -1,0 +1,21 @@
+﻿*{
+	font-family:Elephant;
+	font-size:16px;
+	background-color:#00008B;
+	color:#ffffff;
+}
+
+
+
+#center_div {
+	float:left;
+	margin-top:50px;
+}
+
+
+
+
+
+.clear {
+	clear:both;
+}
